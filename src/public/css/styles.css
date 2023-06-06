@@ -1,0 +1,10 @@
+body{
+  background-color: rgb(47, 76, 66);
+}
+
+.contenedor{
+  background-color: antiquewhite;
+  width: 80%;
+  margin-top: 12px;
+  margin: 0 auto;
+}
